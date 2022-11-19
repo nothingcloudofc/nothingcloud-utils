@@ -1,0 +1,35 @@
+{
+  "name": "@nothingcloud/utils",
+  "version": "1.0.2",
+  "description": "Module designed to support Nothing Cloud activities.",
+  "main": "src/index.js",
+  "types": "@types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "status",
+    "utils",
+    "nothing",
+    "cloud",
+    "nothingcloud",
+    "host"
+  ],
+  "author": "Nothing Cloud | Development Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@nothingcloudofc/status": "latest",
+    "node-fetch": "latest"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothingcloudofc/nothingcloud-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nothingcloudofc/nothingcloud-utils/issues"
+  },
+  "homepage": "https://github.com/nothingcloudofc/nothingcloud-utils#readme"
+}
